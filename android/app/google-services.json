@@ -1,0 +1,371 @@
+{
+  "project_info": {
+    "project_number": "314028118974",
+    "firebase_url": "https://bh-production-a653e.firebaseio.com",
+    "project_id": "bh-production-a653e",
+    "storage_bucket": "bh-production-a653e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:3a0ea181a0cfb695fa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.brunospizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:c7c36e423c9aed4dfa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.casella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:d7cc9e1064daa6d4fa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.edisondiner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:ecf7f628fd162ec6fa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.fairfieldpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:eddaa7acb31466c3fa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.hawksbbq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:587474670be4d2e9fa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.hometownpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:feb6a86282f9c8e6fa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.juliano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:3b3782dda281b7bcfa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.sanremopizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:c8afdb3219f60b16fa9fef",
+        "android_client_info": {
+          "package_name": "bh.app.stonefiredpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314028118974:android:ac587ace5c7cc2eafa9fef",
+        "android_client_info": {
+          "package_name": "bh.hometownpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM2QNPp3TPhDYUhXtA_Dv8v9njPgVEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314028118974-3r96l90ltb45qjlt6rmvlgo1l6imii1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314028118974-8devs07d45ltemmj90d99rloc5k28rrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.app.sanremopizza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>314028118974-gl978plci0otvje9atonc0t6ub1gk7il.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.314028118974-gl978plci0otvje9atonc0t6ub1gk7il</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfKIOlCCNdg4Shl7gxN5NtEN6_Vubdh14</string>
+	<key>GCM_SENDER_ID</key>
+	<string>314028118974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>bh.app.casella</string>
+	<key>PROJECT_ID</key>
+	<string>bh-production-a653e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bh-production-a653e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:314028118974:ios:048f7fd6c5520ccafa9fef</string>
+	<key>DATABASE_URL</key>
+	<string>https://bh-production-a653e.firebaseio.com</string>
+</dict>
+</plist>
